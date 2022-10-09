@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095841371992",
+    "project_id": "fcmpushnotificationonesignal",
+    "storage_bucket": "fcmpushnotificationonesignal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095841371992:android:0b211a6b17d414d39af72d",
+        "android_client_info": {
+          "package_name": "com.example.fcmpushnotificationonesignal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095841371992-p94hs2hmgbo9eenmbu7ouirh7d21gtrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtH8xhHlh9_2v2sxra1EXjnbzQwYMtpSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095841371992-p94hs2hmgbo9eenmbu7ouirh7d21gtrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
